@@ -23,6 +23,8 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5db4d792-8040-4c7e-a956-abcc55dc710b)
 #### 5. Change excel sheet reference style
 ![image](https://github.com/Peacock333/Excel/assets/142161753/1f1d57de-763d-48c1-bfe0-4c2acb98f39e)
+#### 6. Freeze row or column
+![image](https://github.com/Peacock333/Excel/assets/142161753/7dfb99a5-8d06-4aa0-b129-e9d38255bdf6)
 
 
 
