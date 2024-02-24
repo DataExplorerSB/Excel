@@ -6,7 +6,20 @@ Customizing Paste Special
 1. Quick Access Toolbar
 2. Customize ribbon
    (Under the ribbon, only daily necessary tools can be stored)
-3. Custom lists 
+3. Custom lists
+4. Import lists
+5. Excel sheet reference style
+6. Freeze panes
+7. Common keyboard shortcuts
+   * Undo Ctrl+Z
+   * Copy Ctrl+C
+   * Paste Ctrl+V
+   * Cut Ctrl+X
+   * Paste Special Ctrl+Alt+V
+   * File - New- To Create a new Workbook Ctrl+N
+   * File-open-To open an existing Workbook Ctrl+O
+   * File-Save-To save the workbook permanently Ctrl+S
+     
 
 ## Screenshots
 #### 1. Quick Access Toolbar
