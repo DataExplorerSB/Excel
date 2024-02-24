@@ -45,9 +45,10 @@ Customizing Paste Special
 
 ##### Paste control to paste only 'Dropdown''
 ![image](https://github.com/Peacock333/Excel/assets/142161753/739ffb46-848f-4e21-9504-c386805f35f0)
-#### 8. Format Painter
-To retain the format in new table 
+#### 8. Format Painter (To retain the format in the new table)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5bda2249-b900-4ecb-9fae-00b58055283c)
+#### 9. Basic Formula Manipulation
+![image](https://github.com/Peacock333/Excel/assets/142161753/d9658981-8f34-48e8-9c8c-364907efed89)
 
 
 
