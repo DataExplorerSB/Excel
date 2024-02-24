@@ -21,7 +21,8 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/59eddea6-7158-4c9d-bab0-2f22d7614e60)
 ##### Cell without simple text import list is impossible
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5db4d792-8040-4c7e-a956-abcc55dc710b)
-
+#### 5. Change excel sheet reference style
+![image](https://github.com/Peacock333/Excel/assets/142161753/1f1d57de-763d-48c1-bfe0-4c2acb98f39e)
 
 
 
