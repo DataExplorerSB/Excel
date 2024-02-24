@@ -22,8 +22,9 @@ Customizing Paste Special
 <ul>
    <li>
       Cell without simple text import list is impossible
+      ![image](https://github.com/Peacock333/Excel/assets/142161753/5db4d792-8040-4c7e-a956-abcc55dc710b)
    </li>
 </ul>
-![image](https://github.com/Peacock333/Excel/assets/142161753/5db4d792-8040-4c7e-a956-abcc55dc710b)
+
 
 
