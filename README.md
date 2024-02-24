@@ -40,6 +40,10 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/7dfb99a5-8d06-4aa0-b129-e9d38255bdf6)
 ##### Freeze panes (Put the cursor at the intersection over there you want to freeze)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/8df59f99-fb17-4777-a4d3-1050ff3e3420)
+### 7. Paste Special
+![image](https://github.com/Peacock333/Excel/assets/142161753/94faa5dd-a655-466e-9fc9-35ad13777c6d)
 
+##### Paste control to paste only 'Dropdown''
+![image](https://github.com/Peacock333/Excel/assets/142161753/739ffb46-848f-4e21-9504-c386805f35f0)
 
 
