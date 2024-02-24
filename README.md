@@ -49,6 +49,10 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/25afc2bb-48fa-46f5-8e32-40167dcbbd9d)
 ##### Paste Special "Transpose"
 ![image](https://github.com/Peacock333/Excel/assets/142161753/58bcabba-055d-41f9-afda-0283e0215d63)
+##### Paste Special "Clone source data"
+![image](https://github.com/Peacock333/Excel/assets/142161753/503d5a53-0160-4392-a939-8d480f419616)
+##### Paste Special "Dynamic Image"
+![image](https://github.com/Peacock333/Excel/assets/142161753/ff907671-b204-445d-b663-b8ea4a78dc57)
 
 #### 8. Format Painter (To retain the format in the new table)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5bda2249-b900-4ecb-9fae-00b58055283c)
