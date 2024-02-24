@@ -20,9 +20,9 @@ Customizing Paste Special
    * File-open-To open an existing Workbook Ctrl+O
    * File-Save-To save the workbook permanently Ctrl+S
 8. Format Painter
-9. Alignment, Indentation, Text Orientation, Wrap Text, Merge Center, Super script/Sub-script/Strikethrough
-   There are 6 types of alignments. 'Bottom Left' is the default alignment
-   'Indent': To align according to need
+9. Alignment, Indentation, Text Orientation, Wrap Text, Merge Center, Super script/Sub-script/Strikethrough :
+   * There are 6 types of alignments. 'Bottom Left' is the default alignment. 
+   * 'Indent': To align according to need
    
      
 
