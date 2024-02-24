@@ -48,7 +48,7 @@ Customizing Paste Special
 ##### Paste Special "Skip Bank"
 ![image](https://github.com/Peacock333/Excel/assets/142161753/25afc2bb-48fa-46f5-8e32-40167dcbbd9d)
 ##### Paste Special "Transpose"
-![image](https://github.com/Peacock333/Excel/assets/142161753/736fa722-8cb4-4f2f-982e-acdc188d8055)
+![image](https://github.com/Peacock333/Excel/assets/142161753/58bcabba-055d-41f9-afda-0283e0215d63)
 
 #### 8. Format Painter (To retain the format in the new table)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5bda2249-b900-4ecb-9fae-00b58055283c)
