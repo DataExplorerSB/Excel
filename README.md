@@ -19,7 +19,7 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/c1571dc6-176c-40fc-a4d1-5f6df515d98c)
 #### 4. Import lists
 ![image](https://github.com/Peacock333/Excel/assets/142161753/59eddea6-7158-4c9d-bab0-2f22d7614e60)
-#### ***Cell without simple text import list is impossible***
+##### ****Cell without simple text import list is impossible****
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5db4d792-8040-4c7e-a956-abcc55dc710b)
 
 
