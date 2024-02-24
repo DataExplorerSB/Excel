@@ -19,6 +19,11 @@ Customizing Paste Special
    * File - New- To Create a new Workbook Ctrl+N
    * File-open-To open an existing Workbook Ctrl+O
    * File-Save-To save the workbook permanently Ctrl+S
+8. Format Painter
+9. Alignment, Indentation, Text Orientation, Wrap Text, Merge Center, Super script/Sub-script/Strikethrough
+   There are 6 types of alignments. 'Bottom Left' is the default alignment
+   'Indent': To align according to need
+   
      
 
 ## Screenshots
@@ -58,6 +63,8 @@ Customizing Paste Special
 ![image](https://github.com/Peacock333/Excel/assets/142161753/5bda2249-b900-4ecb-9fae-00b58055283c)
 #### 9. Basic Formula Manipulation
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d9658981-8f34-48e8-9c8c-364907efed89)
+#### 10. Font formatting (Super-script/Sub-script/Strikethrough)
+![image](https://github.com/Peacock333/Excel/assets/142161753/f4dc4b1f-00c9-437c-ab3a-06ceab1cf264)
 
 
 
