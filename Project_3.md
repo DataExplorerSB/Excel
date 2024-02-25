@@ -13,7 +13,7 @@
 >>negative values of any numbers then it will be visible in red**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/123d6e98-4279-4ccd-a40b-88f287620c4d)
 >>**(000)-(000000)==>o always holds a number if there is no number then it will shown us automatically
-0 যদি**
+0 (মানে ০ সবসময় একটা নাম্বারকে ধরে রাখবে যদি কোন নাম্বার নাও থাকে সেক্ষেত্রে সে আমাদের by-default ০ দেখাবে)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/fb0680f9-86b9-4ef6-a19b-cf79ac119f10)
 
 
