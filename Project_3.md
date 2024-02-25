@@ -15,9 +15,10 @@
 #### [>0]#;[Red](-#);==>Enter the value which is greater than 0 and # for number we know but (-#) means
 #### negative values of any numbers then it will be visible in red
 >![image](https://github.com/Peacock333/Excel/assets/142161753/123d6e98-4279-4ccd-a40b-88f287620c4d)
-#### **(000)-(000000)==>o always holds a number if there is no number then it will be shown us automatically
-0 (মানে ০ সবসময় একটা নাম্বারকে ধরে রাখবে যদি কোন নাম্বার নাও থাকে সেক্ষেত্রে সে আমাদের by-default ০ দেখাবে)**
+#### **(000)-(000000)==>o and # always known as digit placeholder.
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/fb0680f9-86b9-4ef6-a19b-cf79ac119f10)
+>>#### Example of # as a digit placeholder
+>>![image](https://github.com/Peacock333/Excel/assets/142161753/cbb76ad9-b513-4a1f-895c-13d04329c3f2)
 #### **@*.==>@ is used for text * is for 0 or more characters and we required (.) means after the the text
 #### whole place is occupied with .(dot)/-(hyphen)/(_)**
 >![image](https://github.com/Peacock333/Excel/assets/142161753/bdb0bf4a-d63f-4bc9-a862-d69f52720d2b)
