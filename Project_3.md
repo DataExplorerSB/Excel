@@ -17,7 +17,11 @@
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/fb0680f9-86b9-4ef6-a19b-cf79ac119f10)
 >>**@*.==>@ is used for text * is for 0 or more charecter and we required (.) means after the the text whole place is occupied with .(dot)/-(hyfen)/(_)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/bdb0bf4a-d63f-4bc9-a862-d69f52720d2b)
+**Example==>Dash(-)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/105e25a8-cd31-49a9-a640-d5712b350543)
+**Example==>Hyfen(_)**
+>>![image](https://github.com/Peacock333/Excel/assets/142161753/99b566c2-6ffb-4a95-a11d-bd2de0c0c69e)
+
 
 
 
