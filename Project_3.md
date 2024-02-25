@@ -50,6 +50,8 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/81d161b3-e3fb-4345-87a9-c3120493ad32)
 #### Conditional formatting (Is Equal)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0c865845-2163-4b46-be45-8105402f2e2b)
+#### Conditional formatting (Text Containing)
+![image](https://github.com/Peacock333/Excel/assets/142161753/3f235afa-2e49-4c6d-8ff1-315af1b6081f)
 
 
 
