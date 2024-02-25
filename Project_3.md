@@ -21,7 +21,7 @@
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/105e25a8-cd31-49a9-a640-d5712b350543)
 **Example==>Dash(-)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/99b566c2-6ffb-4a95-a11d-bd2de0c0c69e)
-**To hide all data we use ;;;**
+#**To hide all data we use ;;;**
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d6e98a11-f66b-4b7d-b2a5-62316ff5e764)
 **To hide all number we use ;/;;**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/77acb17e-3be0-40d4-8077-b65a20466ac7)
