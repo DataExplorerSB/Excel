@@ -46,8 +46,10 @@
 #### Clear the rules means we can change the conditional formatting of a selected cell 
 ####  as well as change the formatting in the entire sheet.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/db838ee3-e48c-44b4-ab1d-9e11fc400258)
-##### Between means the values we ant to filter from one range to another range then we will use between 
+##### Between means the values we want to filter from one range to another range then we will use between 
 ![image](https://github.com/Peacock333/Excel/assets/142161753/81d161b3-e3fb-4345-87a9-c3120493ad32)
+#### Conditional formatting (Is Equal)
+![image](https://github.com/Peacock333/Excel/assets/142161753/0c865845-2163-4b46-be45-8105402f2e2b)
 
 
 
