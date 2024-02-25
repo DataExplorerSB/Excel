@@ -21,8 +21,8 @@
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/fb0680f9-86b9-4ef6-a19b-cf79ac119f10)
 >>#### Example of # as a digit placeholder
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/cbb76ad9-b513-4a1f-895c-13d04329c3f2)
-#### **@*.==>@ is used for text * is for 0 or more characters and we required (.) means after the the text
-#### whole place is occupied with .(dot)/-(hyphen)/(_)**
+#### @*.==>@ is used for text * is for 0 or more characters and we required (.) means after the the text
+#### whole place is occupied with .(dot)/-(hyphen)/(_)
 >![image](https://github.com/Peacock333/Excel/assets/142161753/bdb0bf4a-d63f-4bc9-a862-d69f52720d2b)
 #### **Example==>Hyfen(_)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/105e25a8-cd31-49a9-a640-d5712b350543)
