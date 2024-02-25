@@ -60,6 +60,9 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/a33ccb5c-5af4-405b-b9de-735b109d7b6a)
 #### Conditional Formatting (Top/Bottom Rules)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/87643b5e-2c94-4284-8941-876ac5835dfb)
+#### Conditional Formatting (Data Bar)
+![image](https://github.com/Peacock333/Excel/assets/142161753/d6eca274-1031-4d80-85f2-4182acd1aa27)
+
 
 
 
