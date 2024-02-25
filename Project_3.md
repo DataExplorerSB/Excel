@@ -6,8 +6,8 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/24d360fe-c958-4e2d-89f7-7913a5117e40)
 >>**[Red][>100]#;[Green][<100]#;[Blue]@==># is for number and @ used for string**
 ![image](https://github.com/Peacock333/Excel/assets/142161753/22e966fd-6f07-470e-a1ac-aa77231dcc3f)
->>[>0]#;"Enter Positive Number Only";==>Enter the number which is greater than 0 and IF we enter any
->>negative value then it will show Enter the postive number only.
+>>***[>0]#;"Enter Positive Number Only";==>Enter the number which is greater than 0 and IF we enter any
+>>negative value then it will show Enter the postive number only.***
 ![image](https://github.com/Peacock333/Excel/assets/142161753/b6a5719d-40df-435e-af7d-c2e861834cf4)
 
 
