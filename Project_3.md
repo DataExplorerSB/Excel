@@ -62,6 +62,9 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/87643b5e-2c94-4284-8941-876ac5835dfb)
 #### Conditional Formatting (Data Bar)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d6eca274-1031-4d80-85f2-4182acd1aa27)
+#### Conditional Formatting (Data Bar comparison)
+![image](https://github.com/Peacock333/Excel/assets/142161753/bedc42f0-c380-4d7b-b419-52eb2e5da9b9)
+
 
 
 
