@@ -56,7 +56,8 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/231508de-0f66-43d9-976f-c760f832543f)
 #### Conditional Formatting (Duplicate Values)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/39421a89-6ea3-4d56-965a-3129e83b4239)
-
+#### Conditional Formatting (New Formatting Rule)
+![image](https://github.com/Peacock333/Excel/assets/142161753/a33ccb5c-5af4-405b-b9de-735b109d7b6a)
 
 
 
