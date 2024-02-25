@@ -48,10 +48,12 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/db838ee3-e48c-44b4-ab1d-9e11fc400258)
 ##### Between means the values we want to filter from one range to another range then we will use between 
 ![image](https://github.com/Peacock333/Excel/assets/142161753/81d161b3-e3fb-4345-87a9-c3120493ad32)
-#### Conditional formatting (Is Equal)
+#### Conditional formatting (Equal To)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0c865845-2163-4b46-be45-8105402f2e2b)
-#### Conditional formatting (Text Containing)
+#### Conditional formatting (Text That Contains)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/4796c8f7-d524-41be-a2ba-eda5eb83c185)
+#### Conditional Formatting (A Date Occurring)
+![image](https://github.com/Peacock333/Excel/assets/142161753/231508de-0f66-43d9-976f-c760f832543f)
 
 
 
