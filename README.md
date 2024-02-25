@@ -1,4 +1,4 @@
-# Project Title : Customizing Paste Special
+# Project Title : 1. Customizing Paste Special
 
 
 
@@ -66,6 +66,6 @@
 #### 10. Font formatting (Super-script/Sub-script/Strikethrough)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/f4dc4b1f-00c9-437c-ab3a-06ceab1cf264)
 
-
+# Project Title : 2. Cell Reference
 
 
