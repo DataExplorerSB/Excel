@@ -9,6 +9,10 @@
 **[>0]#;"Enter Positive Number Only";==>Enter the number which is greater than 0 and IF we enter any
 >>negative value then it will show Enter the postive number only.**
 ![image](https://github.com/Peacock333/Excel/assets/142161753/b6a5719d-40df-435e-af7d-c2e861834cf4)
+>>**[>0]#;[Red](-#);==>Enter the value which is greater than 0 and # for number we know but (-#) means
+>>negative values of any numbers then it will be visible in red**
+>>![image](https://github.com/Peacock333/Excel/assets/142161753/123d6e98-4279-4ccd-a40b-88f287620c4d)
+
 
 
 
