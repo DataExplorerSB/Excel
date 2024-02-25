@@ -38,6 +38,10 @@
 #### Custom Format in Conditional Formating(We can 
 #### use them with the help of Custom Format )
 ![image](https://github.com/Peacock333/Excel/assets/142161753/f542e49c-c325-4e10-8dda-bc8e41fc4963)
+#### Clear the rules means we can change the conditional formatting of a selected cell 
+####  as well as change the formatting in the entire sheet.
+![image](https://github.com/Peacock333/Excel/assets/142161753/db838ee3-e48c-44b4-ab1d-9e11fc400258)
+
 
 
 
