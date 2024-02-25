@@ -51,7 +51,7 @@
 #### Conditional formatting (Is Equal)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0c865845-2163-4b46-be45-8105402f2e2b)
 #### Conditional formatting (Text Containing)
-![image](https://github.com/Peacock333/Excel/assets/142161753/3f235afa-2e49-4c6d-8ff1-315af1b6081f)
+![image](https://github.com/Peacock333/Excel/assets/142161753/4796c8f7-d524-41be-a2ba-eda5eb83c185)
 
 
 
