@@ -68,6 +68,8 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/ff5c773b-fda8-40cb-a435-15b44907f43f)
 #### Conditional Formatting (Color Scale for different numbers)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/fbee8736-3f22-4037-bdc2-f471c92d3f29)
+#### Conditional Formatting (Icon Set)
+![image](https://github.com/Peacock333/Excel/assets/142161753/80dafbe9-88d1-4c3d-8db9-67368cf41941)
 
 
 
