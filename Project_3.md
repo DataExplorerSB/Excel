@@ -41,7 +41,7 @@
 #### Clear the rules means we can change the conditional formatting of a selected cell 
 ####  as well as change the formatting in the entire sheet.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/db838ee3-e48c-44b4-ab1d-9e11fc400258)
-##### between means the values we ant to filter from one range to another range then we will use between 
+##### Between means the values we ant to filter from one range to another range then we will use between 
 ![image](https://github.com/Peacock333/Excel/assets/142161753/81d161b3-e3fb-4345-87a9-c3120493ad32)
 
 
