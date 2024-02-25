@@ -15,7 +15,8 @@
 >>**(000)-(000000)==>o always holds a number if there is no number then it will shown us automatically
 0 (মানে ০ সবসময় একটা নাম্বারকে ধরে রাখবে যদি কোন নাম্বার নাও থাকে সেক্ষেত্রে সে আমাদের by-default ০ দেখাবে)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/fb0680f9-86b9-4ef6-a19b-cf79ac119f10)
->>**@*.==>@ is used for text * is for 0 or more charecter and we required (.) means after the the text whole place is occupied with .(dot)/-(hyfen)/(_)**
+###**@*.==>@ is used for text * is for 0 or more charecter and we required (.) means after the the text
+###whole place is occupied with .(dot)/-(hyfen)/(_)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/bdb0bf4a-d63f-4bc9-a862-d69f52720d2b)
 **Example==>Hyfen(_)**
 >>![image](https://github.com/Peacock333/Excel/assets/142161753/105e25a8-cd31-49a9-a640-d5712b350543)
