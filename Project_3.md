@@ -25,7 +25,7 @@
 >![image](https://github.com/Peacock333/Excel/assets/142161753/99b566c2-6ffb-4a95-a11d-bd2de0c0c69e)
 #### **To hide all data we use;;;**
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d6e98a11-f66b-4b7d-b2a5-62316ff5e764)
-##### To hide all numbers we use ;/;;
+##### To hide all numbers we use;/;;
 >![image](https://github.com/Peacock333/Excel/assets/142161753/77acb17e-3be0-40d4-8077-b65a20466ac7)
 ##### [>0]#;;==>It means it will only be allowed to enter the positive value and if we enter any 
 ##### negative value then it will not be visible.
@@ -35,6 +35,9 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/068ac689-e79a-47a0-b8da-47ee7e2a0827)
 #### We are getting a value which is less than 46
 ![image](https://github.com/Peacock333/Excel/assets/142161753/9ba25704-7022-48a2-9970-a4c6e9e87c9a)
+#### Custom Format in Conditional Formating(We can 
+#### use them with the help of Custom Format )
+![image](https://github.com/Peacock333/Excel/assets/142161753/f542e49c-c325-4e10-8dda-bc8e41fc4963)
 
 
 
