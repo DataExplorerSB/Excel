@@ -30,6 +30,7 @@
 ##### [>0]#;;==>It means it will only be allowed to enter the positive value and if we enter any 
 ##### negative value then it will not be visible.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/b2e5bb65-5ea7-4abb-af1d-aba8d2de2108)
+# Conditional Formatting
 #### We are getting a value which is greater than 75 
 ![image](https://github.com/Peacock333/Excel/assets/142161753/068ac689-e79a-47a0-b8da-47ee7e2a0827)
 #### We are getting a value which is less than 46
