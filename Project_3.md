@@ -54,7 +54,8 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/4796c8f7-d524-41be-a2ba-eda5eb83c185)
 #### Conditional Formatting (A Date Occurring)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/231508de-0f66-43d9-976f-c760f832543f)
-
+#### Conditional Formatting (Duplicate Values)
+![image](https://github.com/Peacock333/Excel/assets/142161753/39421a89-6ea3-4d56-965a-3129e83b4239)
 
 
 
