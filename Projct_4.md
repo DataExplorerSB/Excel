@@ -28,8 +28,7 @@ of cell A9 to the value of cell A10.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/240ee770-4ca6-4f2b-849e-be2eff9a9a56)
 # Rules of Formula 
 ![image](https://github.com/Peacock333/Excel/assets/142161753/7bd83a9b-c399-4703-ad3c-6329935c6abc)
-a). Logical Operator		And,Or,Not,Xor,Switch,isnumber,istext,isodd,iseven etc	
-b). Comparision Operator		>,<,>=,<=,<>,=	
+# Logical Operator and Comparison Operator
 ![image](https://github.com/Peacock333/Excel/assets/142161753/a8e49c8c-9875-4150-85ad-2b32db032c06)
 
 
