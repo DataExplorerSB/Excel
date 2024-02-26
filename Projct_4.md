@@ -8,14 +8,9 @@ of cell A9 to the value of cell A10.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d47661f6-8047-4680-8df8-f49915122157)
 						
 # FUNCTION VS FORMULA (INTRODUCTION)						
-##### Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.						
-		FUNCTION				
-Requirement			Database			
-						
-						
-						
-						
-		Function				
+##### Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.									
+![image](https://github.com/Peacock333/Excel/assets/142161753/9103b00c-0820-42c9-a4bc-e0419d5840d6)
+			
 						
 						
 						
