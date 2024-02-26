@@ -80,6 +80,10 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/c6b2cef6-dff8-4486-b604-96045d7146c6)
 ###### Select the selected column as picture -> apply conditional formatting
 ![image](https://github.com/Peacock333/Excel/assets/142161753/578ae53b-daf2-44c6-b118-cd974889690f)
+#### Conditional Formatting Exercise
+##### Method 1. Select entire record -> apply conditional formatting
+###### Method 2. Apply formula Actual>Budgeted. If False, verify for entire rows. After verification, apply conditional formatting.
+![image](https://github.com/Peacock333/Excel/assets/142161753/6e670c26-d640-460c-93ef-38fa3ecfc923)
 
 
 
