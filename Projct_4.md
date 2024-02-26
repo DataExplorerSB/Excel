@@ -18,12 +18,10 @@ of cell A9 to the value of cell A10.
 ##### 2. Function with one Argument e.g. upper(text),lower(text)	
 ##### 3. Function with many argument "e.g. (logical_test,value_if_true,value_if_false),Sumif(range,criteria,sum_range)"
 
-##### 1). Volitile Function=>Run without parameter Ex. Today(),Now(),Rand(),NA() Etc		
-##### 2). Non-Volitie Function	Run with Parameter Ex. lookup,Hlookup,Sum,Max,min,avg,Offset etc 
-##### Row(),Column() etc			
-# FORMULA						
-	Combination of Functions		Ex. If(Sum(rng)>200,Vlookup(),Hlookup())		
-# Difference between Function and Formula									
+##### 1). Volatile Function=>Run without parameter Ex. Today(),Now(),Rand(),NA() Etc		
+##### 2). Non-Volatile Function	Run with Parameter Ex. lookup,Hlookup,Sum,Max,min,avg,Offset etc 
+##### Row(),Column() etc					
+# Difference between Function and Formula								
 	a). Function is System defined but formula is user defined.			
         b). Function is single syntex but formula is combination of function.			
 	c). Function is not analytical but formula is analytical.					
