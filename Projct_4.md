@@ -17,7 +17,7 @@ of cell A9 to the value of cell A10.
 # FORMULA						
 	Combination of Functions		Ex. If(Sum(rng)>200,Vlookup(),Hlookup())		
 # Difference between Function and Formula									
-        a). Function is System defined but formula is user defined			
+	a). Function is System defined but formula is user defined			
         b). Function is single syntex but formula is combination of function			
 	c). Function is not analytical but formula is analytical.					
 	d). Function is independent but formula is dependent					
