@@ -14,7 +14,7 @@ of cell A9 to the value of cell A10.
 # Function Argument/Parameter List
 ##### 1. Function with NO Argument e.g. now(),today()	
 ##### 2. Function with one Argument e.g. upper(text),lower(text)	
-##### 3. Function with many argument "e.g. (logical_test,value_if_true,value_if_false),Sumif(range,criteria,sum_range)"
+##### 3. Function with many argument e.g. (logical_test,value_if_true,value_if_false),Sumif(range,criteria,sum_range)
 
 ##### 1). Volatile Function=>Run without parameter Ex. Today(),Now(),Rand(),NA() Etc		
 ##### 2). Non-Volatile Function	Run with Parameter Ex. lookup,Hlookup,Sum,Max,min,avg,Offset etc 
