@@ -30,17 +30,6 @@ of cell A9 to the value of cell A10.
 	d). Function is independent but formula is dependent					
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0e5021cd-eb54-4386-a07d-138fc80e8ac1)
 
-S.NO	CUSTOMER NAME	TOTAL BILL	DIFFERENT PRODUCT	IF customer bill>5000 Discount -10%	if customer bill>20000 OR different product>=10 Discount -30%	if customer bill>20000 AND different product>=10 Discount -30%	if customer Bill >20000,"A",>10000,"B",<10000,"C" NESTED IF
-1	MANSHI	2000	2	0	0	0	c
-2	NIMESH	20500	4	10%	0	0	A
-3	KAPIL	13000	5	10%	0	0	B
-4	KIRAN	30000	12	10%	30%	30%	A
-5	BIMAL	23400	9	10%	0	0	A
-6	MOHIT	700	1	0	0	0	c
-7	SATISH	33000	13	10%	30%	30%	A
-8	NANCY	44200	15	10%	30%	30%	A
-9	RUPESH	1200	2	0	0	0	c
-10	JYOTI	21000	10	10%	30%	30%	A
 ![image](https://github.com/Peacock333/Excel/assets/142161753/40508dcf-6413-4a14-8dad-afaf8cf916c6)
 
 
