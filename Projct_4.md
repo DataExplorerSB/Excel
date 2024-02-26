@@ -6,6 +6,48 @@ of cell A9 to the value of cell A10.
 #### Functions are predefined formulas and used to do the specific task 				
 #### e.g. sum(mu,ber1,number2….)				
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d47661f6-8047-4680-8df8-f49915122157)
+						
+FUNCTION VS FORMULA (INTRODUCTION)						
+						
+						
+						
+Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.						
+		FUNCTION				
+Requirement			Database			
+						
+						
+						
+						
+		Function				
+						
+						
+						
+						
+						
+						
+						
+						
+						
+Types of Function						
+	1). Volitile Function	Run without parameter	Ex. Today(),Now(),Rand(),NA() Etc			
+	2). Non-Volitie Function	Run with Parameter	Ex. lookup,Hlookup,Sum,Max, min,  avg,  Offset etc			
+						
+			Row(),Column() etc			
+						
+						
+FORMULA						
+	Combination of Functions		Ex. If(Sum(rng)>200,Vlookup(),Hlookup())			
+						
+						
+						
+Difference between Function and Formula						
+						
+	a). Function is System defined but formula is user defined					
+	b). Function is single syntex but formula is combination of function					
+	c). Function is not analytical but formula is analytical.					
+	d). Function is independent but formula is dependent					
+![image](https://github.com/Peacock333/Excel/assets/142161753/0e5021cd-eb54-4386-a07d-138fc80e8ac1)
+
 
 
 
