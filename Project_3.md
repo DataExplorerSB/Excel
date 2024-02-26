@@ -72,7 +72,9 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/80dafbe9-88d1-4c3d-8db9-67368cf41941)
 #### Conditional formating-New rules-use a formula to determine which cells to format dynamically
 ![image](https://github.com/Peacock333/Excel/assets/142161753/bbae8678-fdbf-4f4b-ab9a-a201fc0bc9ce)
-
+#### Highlight One column value
+##### Step-Select the Top Product column data->Home>conditional formating-New rule->Use a Formula to determine which cells to format
+![image](https://github.com/Peacock333/Excel/assets/142161753/f22726ae-9a32-4996-b9f5-3a97300004bb)
 
 
 
