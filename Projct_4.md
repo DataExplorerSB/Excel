@@ -8,7 +8,7 @@ of cell A9 to the value of cell A10.
 #### Functions are predefined formulas and used to do the specific task 				
 #### e.g. sum(mu,ber1,number2….)				
 ![image](https://github.com/Peacock333/Excel/assets/142161753/d47661f6-8047-4680-8df8-f49915122157)
-<br>
+<br/>
 ![image](https://github.com/Peacock333/Excel/assets/142161753/74d3288c-1973-4285-9d5e-cc9d562008a3)
 						
 # FUNCTION VS FORMULA (INTRODUCTION)						
