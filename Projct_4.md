@@ -21,7 +21,7 @@ of cell A9 to the value of cell A10.
 ##### Row(),Column() etc					
 # Difference between Function and Formula
 > a). Function is System defined but formula is user defined.			
-> b). Function is single syntex but formula is combination of function.			
+>> b). Function is single syntex but formula is combination of function.			
 > c). Function is not analytical but formula is analytical.					
 > d). Function is independent but formula is dependent
 						
