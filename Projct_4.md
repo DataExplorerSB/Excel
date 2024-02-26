@@ -22,8 +22,8 @@ of cell A9 to the value of cell A10.
 # Difference between Function and Formula
 > a). Function is System defined but formula is user defined.			
 >> b). Function is single syntex but formula is combination of function.			
-> c). Function is not analytical but formula is analytical.					
-> d). Function is independent but formula is dependent
+>> c). Function is not analytical but formula is analytical.					
+>> d). Function is independent but formula is dependent
 						
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0e5021cd-eb54-4386-a07d-138fc80e8ac1)
 
