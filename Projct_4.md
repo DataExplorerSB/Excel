@@ -10,12 +10,11 @@ of cell A9 to the value of cell A10.
 # FUNCTION VS FORMULA (INTRODUCTION)						
 ##### Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.									
 # Types of Function						
-##### 1). Volitile Function	Run without parameter	Ex. Today(),Now(),Rand(),NA() Etc		##### 2). Non-Volitie Function	Run with Parameter	Ex. lookup,Hlookup,Sum,Max, min,  avg,  Offset etc			
-						
-			Row(),Column() etc			
-						
-						
-FORMULA						
+##### 1). Volitile Function=>Run without parameter Ex. Today(),Now(),Rand(),NA() Etc		
+##### 2). Non-Volitie Function	Run with Parameter Ex. lookup,Hlookup,Sum,Max,min,avg,Offset etc 
+##### Row(),Column() etc			
+
+# FORMULA						
 	Combination of Functions		Ex. If(Sum(rng)>200,Vlookup(),Hlookup())			
 						
 						
