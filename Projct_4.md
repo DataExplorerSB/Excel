@@ -9,7 +9,8 @@ of cell A9 to the value of cell A10.
 #### e.g. sum(mu,ber1,number2….)				
 # FUNCTION VS FORMULA (INTRODUCTION)						
 ##### Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.									
-# Types of Function	
+# Types of Function
+##### Inbuilt Function and User defined 
 # Function Argument/Parameter List
 ##### 1. Function with NO Argument e.g. now(),today()	
 ##### 2. Function with one Argument e.g. upper(text),lower(text)	
