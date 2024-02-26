@@ -20,10 +20,10 @@ of cell A9 to the value of cell A10.
 ##### 2). Non-Volatile Function	Run with Parameter Ex. lookup,Hlookup,Sum,Max,min,avg,Offset etc 
 ##### Row(),Column() etc					
 # Difference between Function and Formula
-	a). Function is System defined but formula is user defined.			
-        b). Function is single syntex but formula is combination of function.			
-	c). Function is not analytical but formula is analytical.					
-	d). Function is independent but formula is dependent
+	> a). Function is System defined but formula is user defined.			
+        > b). Function is single syntex but formula is combination of function.			
+	> c). Function is not analytical but formula is analytical.					
+	> d). Function is independent but formula is dependent
 						
 ![image](https://github.com/Peacock333/Excel/assets/142161753/0e5021cd-eb54-4386-a07d-138fc80e8ac1)
 
