@@ -75,6 +75,12 @@
 #### Highlight One column value
 ##### Step-Select the Top Product column data->Home>conditional formating-New rule->Use a Formula to determine which cells to format
 ![image](https://github.com/Peacock333/Excel/assets/142161753/f22726ae-9a32-4996-b9f5-3a97300004bb)
+##### Highlight column and row at same time
+###### Select entire 'Product''column -> apply conditional formatting
+![image](https://github.com/Peacock333/Excel/assets/142161753/c6b2cef6-dff8-4486-b604-96045d7146c6)
+###### Select the selected column as picture -> apply conditional formatting
+![image](https://github.com/Peacock333/Excel/assets/142161753/578ae53b-daf2-44c6-b118-cd974889690f)
+
 
 
 
