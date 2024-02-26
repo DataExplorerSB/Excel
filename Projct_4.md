@@ -25,18 +25,6 @@ of cell A9 to the value of cell A10.
 >>> c). Function is not analytical but formula is analytical.					
 >>>> d). Function is independent but formula is dependent
 # Rules of Function
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
->=	Recognized as a function/Formula	
-Function Name in caps	Recognized all Function Name should be in capital	
-()	To Pass the Agrument/Parameter	
-Comma   ,	Use for parameter Seperator	
-Colon  :	Combination of Range/Cells	
-Square Bracket []	Use as optional Parameter	
-Curly Bracket {}	Use for Multiple Parameter (Use for Array)	
-	 e;g.  =COUNTIF(B42:B47,{"Jan","mar"})	
 ![image](https://github.com/Peacock333/Excel/assets/142161753/240ee770-4ca6-4f2b-849e-be2eff9a9a56)
 
 
