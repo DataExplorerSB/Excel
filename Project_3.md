@@ -70,6 +70,9 @@
 ![image](https://github.com/Peacock333/Excel/assets/142161753/fbee8736-3f22-4037-bdc2-f471c92d3f29)
 #### Conditional Formatting (Icon Set)
 ![image](https://github.com/Peacock333/Excel/assets/142161753/80dafbe9-88d1-4c3d-8db9-67368cf41941)
+#### Conditional formating-New rules-use a  formula to determine which cells to format
+![image](https://github.com/Peacock333/Excel/assets/142161753/bbae8678-fdbf-4f4b-ab9a-a201fc0bc9ce)
+
 
 
 
