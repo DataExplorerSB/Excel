@@ -1,11 +1,13 @@
 # Logical Function
+#### Function is a system defined but the formula is a user defined.
+#### Function is not analytical but we can analyze the formula.
 #### Formula: A formula is an expression that calculates the value of a cell.
 #### For example, cell A11 below contains a formula that adds the value 
 #### of cell A9 to the value of cell A10.
 ![image](https://github.com/Peacock333/Excel/assets/142161753/c53848d2-f1ac-4fac-88c6-6bfd6979f951)
 # FORMULA and FUNCTION						
 #### Combination of Functions	Ex. If(Sum(rng)>200,Vlookup(),Hlookup())
-#### Functions are predefined formulas and used to do the specific task 				
+#### Functions are predefined formulas used to do the specific task 				
 #### e.g. sum(mu,ber1,number2….)				
 # FUNCTION VS FORMULA (INTRODUCTION)						
 ##### Function is most powerful inbuilt features of MS excel which is use for Data Extraction,Data Calculation and Data Analysis.									
