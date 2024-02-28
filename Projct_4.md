@@ -1,6 +1,7 @@
 # Logical Function
 #### Function is a system defined but the formula is a user defined.
-#### Function is not analytical but we can analyze the formula.
+#### Function is not analytical but we can analyze the formula. Function is single syntax but
+#### formula is a combination of functions.
 #### Formula: A formula is an expression that calculates the value of a cell.
 #### For example, cell A11 below contains a formula that adds the value 
 #### of cell A9 to the value of cell A10.
